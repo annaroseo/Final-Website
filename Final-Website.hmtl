@@ -5,8 +5,7 @@ A minimum of two HTML files for:
 1 x ‘about’ page
 A minimum of one CSS file
 Good formatting
-Code split into the appropriate files (separate HTML files & CSS
-files)
+Code split into the appropriate files (separate HTML files & CSS files)
 Files indented properly
 Good organisation
 Version control using git with sensible git commit messages
