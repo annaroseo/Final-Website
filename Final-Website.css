@@ -3,6 +3,10 @@ h1 {
 }
 
 h1 {
+  font-size: 80px;
+}
+
+h1 {
   text-shadow: 3px 2px lightblue;
 }
 <style>
